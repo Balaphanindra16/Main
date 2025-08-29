@@ -1,0 +1,4 @@
+Name: Rayudu Bala Phanindra Kumari
+Course: BSc Computer Science
+What I have learned in Github:
+How to create Repository and how change the commit.
